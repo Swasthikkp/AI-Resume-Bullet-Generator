@@ -1,0 +1,7 @@
+Job: Data Analyst Intern
+Responsibilities:
+- Clean and analyze datasets to support business decisions
+- Build dashboards and reports (Power BI, Excel)
+- Write SQL queries for data extraction
+- Assist with basic predictive modeling
+Required: Python, SQL, Excel, Power BI

@@ -1,0 +1,4 @@
+Name: Swasthik K P
+Skills: Python, Pandas, SQL, Excel (PivotTables), Power BI, Data Cleaning, Visualization
+Projects: Bengaluru Food Affordability & Popularity Analysis (Zomato data), Bengaluru Housing Rent & Price Analysis
+Experience: Data Analysis Intern at Codveda (cleaned datasets, created dashboards)
