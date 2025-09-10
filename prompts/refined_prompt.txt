@@ -1,0 +1,5 @@
+Refinement notes:
+- Include role, action verb, tool/tech (if applicable), and impact/result (quantified when present).
+- If candidate provides project names, reference them briefly.
+- Keep bullets <= 120 characters.
+- Avoid buzzword flooding; stay natural and human-like.
