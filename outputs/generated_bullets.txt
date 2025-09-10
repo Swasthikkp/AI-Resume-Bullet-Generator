@@ -1,0 +1,3 @@
+- Processed and cleaned large Zomato and housing datasets using Python and Pandas to enable analysis.
+- Built Excel PivotTables and Power BI visuals to identify cost hotspots and trends for stakeholders.
+- Wrote SQL queries to aggregate location-wise metrics and supported dashboard reporting.
